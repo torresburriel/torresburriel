@@ -15,4 +15,4 @@ These days I also build products: small tools I use every day, made with AI and 
 
 ---
 
-*Diseñador de UX desde hace más de 25 años y CEO de Torresburriel Estudio. Ahora también construyo herramientas con IA, en abierto.*
+*Diseñador de UX desde hace más de 25 años y CEO de Torresburriel Estudio. Ahora también desarrollo herramientas con IA y las publico en abierto.*
